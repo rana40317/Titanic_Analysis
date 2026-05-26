@@ -18,7 +18,7 @@ ii. NumPy: It is used for numerical operations and array handling.
 
 iii. Matplotlib: It is used for creating basic data visualizations.
 
-iy. Seaborn: It is used for advanced and statistical data visualization.
+iv. Seaborn: It is used for advanced and statistical data visualization.
 
 v. Scikit- Learn: It is used for data splitting, Model Building, Model evaluation.
 
